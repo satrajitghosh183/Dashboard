@@ -888,3 +888,7 @@
   color: var(--primary);
   font-family: var(--font-roboto);
 }
+a {
+  text-decoration: none; /* Removes the underline */
+  color: white; /* Sets the text color to white */
+}

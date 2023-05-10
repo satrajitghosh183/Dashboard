@@ -549,3 +549,7 @@
   color: var(--primary);
   font-family: var(--caption-regular);
 }
+a {
+  text-decoration: none; /* Removes the underline */
+  color: white; /* Sets the text color to white */
+}
